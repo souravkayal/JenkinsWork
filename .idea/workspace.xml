@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49c9fe0b-37c0-4827-88df-2ce72e412cf2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +30,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="JenkinsJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -43,7 +55,29 @@
       <option name="presentableId" value="Default" />
       <updated>1587293099782</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sample commit">
+      <created>1587293688017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587293688017</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sample commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sample commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="0" key="CommitChangelistDialog2" timestamp="1587293687075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="336" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587293687075" />
+    <state x="274" y="113" key="Vcs.Push.Dialog.v2" timestamp="1587293701751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="113" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587293701751" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
